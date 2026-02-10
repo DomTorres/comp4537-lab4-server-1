@@ -1,4 +1,4 @@
-const API_BASE_URL = 'http://localhost:3001';
+const API_BASE_URL = 'https://lab-4-server-2-ckc9d9fgdggcbhc8.canadaeast-01.azurewebsites.net';
 
 document.getElementById('insertBtn').addEventListener('click', async () => {
     const responseDiv = document.getElementById('insertResponse')
